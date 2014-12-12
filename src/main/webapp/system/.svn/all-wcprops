@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system
+END
+head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/head.ftl
+END
+sidbar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/sidbar.ftl
+END
+upload.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/upload.ftl
+END
+repeatPeople.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/repeatPeople.ftl
+END
+foot.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/foot.ftl
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/index.ftl
+END
+common.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/common.ftl
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMS/!svn/ver/11/CMS/src/main/webapp/system/login.ftl
+END

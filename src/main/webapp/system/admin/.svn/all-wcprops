@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/admin
+END
+update.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/admin/update.ftl
+END
+add.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/admin/add.ftl
+END
+all.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/system/admin/all.ftl
+END
+manage.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CMS/!svn/ver/9/CMS/src/main/webapp/system/admin/manage.ftl
+END

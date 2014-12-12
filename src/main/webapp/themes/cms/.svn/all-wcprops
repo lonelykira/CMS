@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms
+END
+folder-blog.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/folder-blog.ftl
+END
+article-news.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/article-news.ftl
+END
+footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/footer.ftl
+END
+folder-blog-photo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/folder-blog-photo.ftl
+END
+500.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/500.ftl
+END
+folder-contact.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/folder-contact.ftl
+END
+folder-news.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/folder-news.ftl
+END
+404.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/CMS/!svn/ver/9/CMS/src/main/webapp/themes/cms/404.ftl
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/index.ftl
+END
+topbar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/topbar.ftl
+END
+header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/header.ftl
+END
+folder-service.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/folder-service.ftl
+END
+sidebar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/CMS/!svn/ver/3/CMS/src/main/webapp/themes/cms/sidebar.ftl
+END

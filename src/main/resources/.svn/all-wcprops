@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/CMS/!svn/ver/3/CMS/src/main/resources
+END
+shishuocms.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CMS/!svn/ver/3/CMS/src/main/resources/shishuocms.properties
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CMS/!svn/ver/3/CMS/src/main/resources/logging.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CMS/!svn/ver/10/CMS/src/main/resources/applicationContext.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/CMS/!svn/ver/3/CMS/src/main/resources/log4j.properties
+END

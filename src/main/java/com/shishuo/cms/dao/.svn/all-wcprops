@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao
+END
+MainVideoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMS/!svn/ver/10/CMS/src/main/java/com/shishuo/cms/dao/MainVideoDao.java
+END
+FolderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/FolderDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/UserDao.java
+END
+RoleDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CMS/!svn/ver/9/CMS/src/main/java/com/shishuo/cms/dao/RoleDao.xml
+END
+CommentDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/CommentDao.xml
+END
+MenuDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CMS/!svn/ver/8/CMS/src/main/java/com/shishuo/cms/dao/MenuDao.xml
+END
+ArticleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/ArticleDao.java
+END
+ConfigDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/ConfigDao.xml
+END
+VideoDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMS/!svn/ver/11/CMS/src/main/java/com/shishuo/cms/dao/VideoDao.xml
+END
+AttachmentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/AttachmentDao.java
+END
+AdminDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/AdminDao.java
+END
+VideoDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/11/CMS/src/main/java/com/shishuo/cms/dao/VideoDetailDao.java
+END
+MainVideoDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CMS/!svn/ver/10/CMS/src/main/java/com/shishuo/cms/dao/MainVideoDao.xml
+END
+FolderDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/FolderDao.xml
+END
+UserDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/UserDao.xml
+END
+RoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMS/!svn/ver/9/CMS/src/main/java/com/shishuo/cms/dao/RoleDao.java
+END
+ArticleDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/ArticleDao.xml
+END
+CommentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/CommentDao.java
+END
+MenuDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/MenuDao.java
+END
+ConfigDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/ConfigDao.java
+END
+VideoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/11/CMS/src/main/java/com/shishuo/cms/dao/VideoDao.java
+END
+AttachmentDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/dao/AttachmentDao.xml
+END
+AdminDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMS/!svn/ver/9/CMS/src/main/java/com/shishuo/cms/dao/AdminDao.xml
+END
+VideoDetailDao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CMS/!svn/ver/11/CMS/src/main/java/com/shishuo/cms/dao/VideoDetailDao.xml
+END

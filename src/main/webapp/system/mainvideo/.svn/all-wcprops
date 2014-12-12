@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/CMS/!svn/ver/10/CMS/src/main/webapp/system/mainvideo
+END
+video-info.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/11/CMS/src/main/webapp/system/mainvideo/video-info.ftl
+END
+mainvideo-list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMS/!svn/ver/10/CMS/src/main/webapp/system/mainvideo/mainvideo-list.ftl
+END
+add-videolist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CMS/!svn/ver/11/CMS/src/main/webapp/system/mainvideo/add-videolist.ftl
+END

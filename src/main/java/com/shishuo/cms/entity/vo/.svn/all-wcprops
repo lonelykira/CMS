@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo
+END
+FolderVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo/FolderVo.java
+END
+PageVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo/PageVo.java
+END
+CommentVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo/CommentVo.java
+END
+ArticleVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo/ArticleVo.java
+END
+AdminVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo/AdminVo.java
+END
+AttachmentVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo/AttachmentVo.java
+END
+JsonVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/vo/JsonVo.java
+END

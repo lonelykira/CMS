@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.shishuo.cms.dao.VideoDao">
+
+	<!-- ############################## -->
+	<!-- ###### 增加 ###### -->
+	<!-- ############################## -->
+
+	<insert id="addVideo" parameterType="com.shishuo.cms.entity.VideoFactory">
+		insert into
+		videofactory(videoUrl,videoTitle,tag,frontCoverUrl,introduction,type,createUser,createTime,updateUser,updateTime)
+		value(#{videoUrl},#{videoTitle},#{tag},#{frontCoverUrl},#{introduction},#{type},#{createUser},#{createTime},#{updateUser},#{updateTime})
+		<selectKey resultType="long" keyProperty="videoFactoryId">
+			SELECT
+			LAST_INSERT_ID()
+		</selectKey>
+	</insert>
+
+	<!-- ############################## -->
+	<!-- ###### 删除 ###### -->
+	<!-- ############################## -->
+
+	<delete id="deleteVideo" parameterType="long">
+		delete from videofactory where
+		videoFactoryId=#{videoFactoryId}
+	</delete>
+
+	<!-- ############################## -->
+	<!-- ###### 修改 ###### -->
+	<!-- ############################## -->
+
+	<update id="updateVideo" parameterType="com.shishuo.cms.entity.VideoFactory">
+		update videofactory set
+		videoTitle=#{videoTitle},tag=#{tag},frontCoverUrl=#{frontCoverUrl},introduction=#{introduction},type=#{type},createUser=#{createUser},createTime=#{createTime},updateUser=#{updateUser},updateTime=#{updateTime}
+		where videoFactoryId=#{videoFactoryId}
+	</update>
+
+	<!-- ############################## -->
+	<!-- ###### 查询 ###### -->
+	<!-- ############################## -->
+
+	<select id="getAllList" resultType="com.shishuo.cms.entity.VideoFactory">
+		select * from videofactory limit
+		#{offset},#{rows}
+	</select>
+
+	<select id="getAllListCount" resultType="int">
+		select count(*) from
+		videofactory
+	</select>
+
+	<select id="getVideoFactoryById" parameterType="long"
+		resultType="com.shishuo.cms.entity.VideoFactory">
+		select * from videofactory where videoFactoryId=#{videoFactoryId}
+	</select>
+	
+	<select id="getVideoListByMid" parameterType="long" resultType="com.shishuo.cms.entity.VideoFactory">
+		select * from videofactory where 1=1 and mid=#{mid}
+	</select>
+</mapper>  

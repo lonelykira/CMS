@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/UserService.java
+END
+ArticleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/ArticleService.java
+END
+UploadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/UploadService.java
+END
+AdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMS/!svn/ver/9/CMS/src/main/java/com/shishuo/cms/service/AdminService.java
+END
+AttachmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMS/!svn/ver/10/CMS/src/main/java/com/shishuo/cms/service/AttachmentService.java
+END
+VideoDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CMS/!svn/ver/11/CMS/src/main/java/com/shishuo/cms/service/VideoDetailService.java
+END
+RoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/9/CMS/src/main/java/com/shishuo/cms/service/RoleService.java
+END
+CommentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/CommentService.java
+END
+InitService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/InitService.java
+END
+MenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/MenuService.java
+END
+ConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/ConfigService.java
+END
+VideoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CMS/!svn/ver/11/CMS/src/main/java/com/shishuo/cms/service/VideoService.java
+END
+FolderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/FolderService.java
+END
+LuceneService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/LuceneService.java
+END
+TemplateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/service/TemplateService.java
+END
+MainVideoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CMS/!svn/ver/10/CMS/src/main/java/com/shishuo/cms/service/MainVideoService.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMS/!svn/ver/8/CMS/src/main/java/com/shishuo/cms/entity/Role.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/Comment.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/Article.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/Menu.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/Config.java
+END
+BaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CMS/!svn/ver/10/CMS/src/main/java/com/shishuo/cms/entity/BaseEntity.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CMS/!svn/ver/9/CMS/src/main/java/com/shishuo/cms/entity/Admin.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/Attachment.java
+END
+VideoDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMS/!svn/ver/11/CMS/src/main/java/com/shishuo/cms/entity/VideoDetail.java
+END
+Folder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/Folder.java
+END
+MainVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMS/!svn/ver/10/CMS/src/main/java/com/shishuo/cms/entity/MainVideo.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CMS/!svn/ver/3/CMS/src/main/java/com/shishuo/cms/entity/User.java
+END
+VideoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CMS/!svn/ver/10/CMS/src/main/java/com/shishuo/cms/entity/VideoFactory.java
+END

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.shishuo.cms.dao.MainVideoDao">
+
+	<!-- ############################## -->
+	<!-- ###### 增加 ###### -->
+	<!-- ############################## -->
+
+	<insert id="addMainVideo" parameterType="com.shishuo.cms.entity.MainVideo">
+		insert into
+		mainvideo(title,type,imageurl,introduction,year,language,status,createUser,createTime,updateUser,updateTime)
+		value(#{title},#{type},#{imageurl},#{introduction},#{year},#{language},#{status},#{createUser},#{createTime},#{updateUser},#{updateTime})
+		<selectKey resultType="long" keyProperty="mid">
+			SELECT
+			LAST_INSERT_ID()
+		</selectKey>
+	</insert>
+
+	<!-- ############################## -->
+	<!-- ###### 删除 ###### -->
+	<!-- ############################## -->
+
+	<delete id="deleteMainVideo" parameterType="long">
+		delete from mainvideo where
+		mid=#{mid}
+	</delete>
+
+	<!-- ############################## -->
+	<!-- ###### 修改 ###### -->
+	<!-- ############################## -->
+
+	<update id="updateMainVideo" parameterType="com.shishuo.cms.entity.MainVideo">
+		update mainvideo set
+		title=#{title},type=#{type},imageurl=#{imageurl},introduction=#{introduction},year=#{year},language=#{language},status=#{status},createUser=#{createUser},createTime=#{createTime},updateUser=#{updateUser},updateTime=#{updateTime}
+		where mid=#{mid}
+	</update>
+
+	<!-- ############################## -->
+	<!-- ###### 查询 ###### -->
+	<!-- ############################## -->
+
+	<select id="getAllList" resultType="com.shishuo.cms.entity.MainVideo">
+		select * from mainvideo limit
+		#{offset},#{rows}
+	</select>
+
+	<select id="getAllListCount" resultType="int">
+		select count(*) from
+		mainvideo
+	</select>
+
+	<select id="getMainVideoById" parameterType="long"
+		resultType="com.shishuo.cms.entity.MainVideo">
+		select * from mainvideo where mid=#{mid}
+	</select>
+</mapper>  
